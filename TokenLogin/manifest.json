@@ -1,0 +1,14 @@
+{
+  "name": "TokenLogin",
+  "description": "Login with token and manage multiple accounts",
+  "authors": [
+    {
+      "name": "dora7",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_account_key"
+  }
+}
